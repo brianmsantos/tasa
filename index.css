@@ -1,3 +1,6 @@
-.main{
-  background-color: navy;
+.navbar{
+  background-color: rgb(6, 20, 45);
+  opacity: .8;
+  box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 3px;
 }
