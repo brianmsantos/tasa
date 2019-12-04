@@ -44,19 +44,19 @@ section p{
   font-size: 1.5rem
 }
 #home{
-  background: url("./images/sergey-zolkin-m9qMoh-scfE-unsplash.jpg") no-repeat center center/cover;
+  background: url("sergey-zolkin-m9qMoh-scfE-unsplash.jpg") no-repeat center center/cover;
 }
 #about{
-  background: url("./images/alejandro-luengo--D5obUrgZc4-unsplash.jpg") no-repeat center center/cover;
+  background: url("alejandro-luengo--D5obUrgZc4-unsplash.jpg") no-repeat center center/cover;
 }
 #capabilities{
-  background: url("./images/michael-afonso-BQgAYwERXhs-unsplash.jpg") no-repeat center center/cover;
+  background: url("michael-afonso-BQgAYwERXhs-unsplash.jpg") no-repeat center center/cover;
 }
 #contracts{
-  background: url("./images/nicolas-thomas-3GZi6OpSDcY-unsplash.jpg") no-repeat center center/cover;
+  background: url("nicolas-thomas-3GZi6OpSDcY-unsplash.jpg") no-repeat center center/cover;
 }
 #careers{
-  background: url("./images/ballpen-blur-close-up-computer-461077.jpg") no-repeat center center/cover;
+  background: url("ballpen-blur-close-up-computer-461077.jpg") no-repeat center center/cover;
 }
 
 
