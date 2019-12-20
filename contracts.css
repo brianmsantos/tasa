@@ -44,50 +44,8 @@ section{
 }
 
 #top-photo{
-  background: url("./science-in-hd-z_WXVITXWpc-unsplash.jpg") no-repeat center center/cover;
+  background: url("./bob-bowie-KD5f-0ByqWs-unsplash.jpg") no-repeat center center/cover;
 }
-
-.row-one{
-  padding-top:20px
-}
-
-.title{
-  color: rgb(6, 20, 45);
-  padding: 10px 0 10px 100px;
-  text-decoration: underline
-}
-
-.subtitle{
-  color: rgb(6, 20, 45);
-  padding: 0 0 0 100px;
-  text-decoration: underline
-}
-
-.capabilities{
-  color: rgb(6, 20, 45);
-  padding: 0 100px 0 100px;
-}
-
-.sub-capabilities{
-  color: rgb(6, 20, 45);
-  padding: 0 100px 0 100px
-}
-
-.listed-items{
-  color: rgb(6, 20, 45);
-  padding: 0 100px 0 150px
-}
-
-.nested-list{
-  color: rgb(6, 20, 45);
-  margin-left:20px;
-}
-
-.side-photo{
-  width: auto;
-  height: 350px;
-}
-
 
 /* Footer starts here */
 .footer-top{
