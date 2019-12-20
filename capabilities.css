@@ -54,13 +54,13 @@ section{
 .title{
   color: rgb(6, 20, 45);
   padding: 10px 0 10px 100px;
-  text-decoration: underline
+  /* text-decoration: underline */
 }
 
 .subtitle{
   color: rgb(6, 20, 45);
   padding: 0 0 0 100px;
-  text-decoration: underline
+  /* text-decoration: underline */
 }
 
 .capabilities{
@@ -156,13 +156,13 @@ section{
 .hr-one{
   border: 1px solid red;
   margin: auto;
-  width: 80%;
+  width: 90%;
 }
 
 hr{
   border: 1px solid red;
   margin: auto;
-  width: 80%
+  width: 90%
 }
 
 

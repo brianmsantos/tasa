@@ -8,6 +8,13 @@ body{
   
   
 }
+
+.hr-header{
+  border: 3px solid rgb(6, 20, 45);
+  margin: auto;
+  width: 100%
+}
+
 .navbar{
   opacity: .8;
   box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
@@ -29,7 +36,7 @@ body{
 }
 
 p{
-  color: white;
+  color:rgb(6, 20, 45);
   line-height: 25px
 }
 
@@ -45,6 +52,14 @@ section{
 
 #top-photo{
   background: url("./bob-bowie-KD5f-0ByqWs-unsplash.jpg") no-repeat center center/cover;
+}
+
+.row-one{
+  padding: 30px 0 20px 100px;
+}
+
+.row-two{
+  padding: 20px 100px 0 100px;
 }
 
 /* Footer starts here */
@@ -120,7 +135,7 @@ section{
 hr{
   border: 1px solid red;
   margin: auto;
-  width: 80%
+  width: 90%
 }
 
 
