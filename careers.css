@@ -6,8 +6,16 @@
 body{
   font-family: 'Source Sans Pro', sans-serif;
   
+
   
 }
+
+.hr-header{
+  border: 3px solid rgb(6, 20, 45);
+  margin: auto;
+  width: 100%
+}
+
 .navbar{
   opacity: .8;
   box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
@@ -59,13 +67,39 @@ section{
   color: rgb(6, 20, 45);
 }
 
-.jobs{
-  padding: 0 100px 20px 100px;
-  width: auto;
-  height: 400px
+
+
+.brick-row{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.brick-col{
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.brick-col-left{
+  padding-left: 100px;
+ 
+}
+
+.brick-col-right{
+  padding-right: 100px;
+ 
 }
 
 
+.brick-col img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+.listed-items{
+  color: rgb(6, 20, 45);
+  padding: 0 100px 0 30px
+}
 
 /* Footer starts here */
 .footer-top{

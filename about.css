@@ -4,10 +4,18 @@
 }
 
 body{
+  color: rgb(36,54,88);
   font-family: 'Source Sans Pro', sans-serif;
   
   
 }
+
+.hr-header{
+  border: 3px solid  rgb(36,54,88);
+  margin: auto;
+  width: 100%
+}
+
 .navbar{
   opacity: .8;
   box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
@@ -76,7 +84,8 @@ section{
 
 /* Footer starts here */
 .footer-top{
-  background: rgb(6, 20, 45);
+  /* background: rgb(6, 20, 45); */
+  background: rgb(36,54,88);
   padding: 20px 0px
 }
 
