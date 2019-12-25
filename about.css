@@ -49,7 +49,6 @@ section{
 
 .history{
   color: rgb(6, 20, 45);
-  font-size: 24px;
 }
 
 .title{
@@ -63,12 +62,17 @@ section{
 }
 
 .row-one{
-  padding: 50px 100px 25px 100px;
+  padding: 20px 0 0 100px
 }
 
 .row-two{
   padding: 25px 100px 25px 100px
 }
+
+.image-row{
+  padding: 0 100px 30px 100px
+}
+
 
 /* Footer starts here */
 .footer-top{
