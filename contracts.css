@@ -113,6 +113,39 @@ section{
   
 }
 
+.location{
+  float: left;
+  height: 40px;
+  width: 40px;
+  margin-top: 5px;
+  margin-right: 10px
+}
+
+.telephone{
+  float: left;
+  height: 40px;
+  width: 40px;
+  margin-top: 5px;
+  margin-right: 10px
+}
+
+.envelope{
+  float: left;
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+  margin-top: -8px
+}
+
+.fb-icon{
+  height: 40px;
+  width: 40px
+}
+
+.twitter-icon{
+  height: 40px;
+  width: 40px;
+}
 .segment-two h2{
   color: #fff;
   font-family: Poppins;
@@ -183,85 +216,3 @@ h6{
   padding-top: 20px
 }
 
-/* Footer starts here
-.footer-top{
-  background: rgb(36,54,88);
-  padding: 20px 0px
-}
-
-.segment-one h3{
-  font-family: Courgette;
-  color: #fff;
-  letter-spacing: 3px;
-  
-}
-
-.segment-two h2{
-  color: #fff;
-  font-family: Poppins;
-  text-transform: uppercase;
-}
-.segment-two h2:before{
-  content: '|';
-  color: #c65039;
-  padding-right: 10px;
-}
-
-.segment-two ul{
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-.segment-two ul li{
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  line-height: 40px;
-}
-
-.segment-two ul li a{
-  color: #999;
-  text-decoration: none;
-}
-
-.segment-three h2{
-  color: #fff; 
-  font-family: Poppins;
-  text-transform: uppercase;
-}
-
-.segment-three h2:before{
-  content: '|';
-  color: #c65039;
-  padding-right: 10px;
-}
-
-.segment-four h2{
-  color: #fff; 
-  font-family: Poppins;
-  text-transform: uppercase;
-}
-
-.segment-four h2:before{
-  content: '|';
-  color: #c65039;
-  padding-right: 10px;
-}
-
-.hr-one{
-  border: 1px solid red;
-  margin: auto;
-  width: 80%;
-}
-
-hr{
-  border: 1px solid red;
-  margin: auto;
-  width: 90%
-}
-
-
-h6{
-  color: #999;
-  text-align: center;
-  padding-top: 20px
-} */
