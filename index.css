@@ -9,7 +9,8 @@ a{
 }
 
 body{
-  font-family: 'Alegreya Sans', sans-serif;
+  /* font-family: 'Alegreya Sans', sans-serif; */
+  font-family: Courgette;
   font-weight: bold;
 }
 
@@ -30,6 +31,7 @@ body{
 }
 
 .company-name{
+  font-family: Courgette;
   color:  rgb(36,54,88);
   font-size: 2em;
   padding-top: 10px
