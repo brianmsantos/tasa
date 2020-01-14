@@ -3,15 +3,12 @@
   padding: 0;
 }
 
-
 a{
   text-decoration: none;
 }
 
 body{
-  /* font-family: 'Alegreya Sans', sans-serif; */
   font-family: Courgette;
-  font-weight: bold;
 }
 
 .hr-header{
@@ -32,6 +29,7 @@ body{
 
 .company-name{
   font-family: Courgette;
+  font-weight: bold;
   color:  rgb(36,54,88);
   font-size: 2em;
   padding-top: 10px
@@ -52,6 +50,7 @@ p{
 }
 
 section{
+  font-weight: bold;
   color: white;
   display: flex;
   flex-direction: column;
@@ -132,14 +131,6 @@ h2{
   margin-right: 10px
 }
 
-.telephone{
-  float: left;
-  height: 40px;
-  width: 40px;
-  margin-top: 5px;
-  margin-right: 10px
-}
-
 .envelope{
   float: left;
   height: 40px;
@@ -150,10 +141,17 @@ h2{
 
 .fb-icon{
   height: 40px;
-  width: 40px
+  width: 40px;
+  margin-right: 5px
 }
 
-.twitter-icon{
+.instagram-icon{
+  height: 40px;
+  width: 40px;
+  margin-right: 5px
+}
+
+.linkedin-icon{
   height: 40px;
   width: 40px;
 }
