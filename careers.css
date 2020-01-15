@@ -5,7 +5,7 @@
 
 body{
   color: rgb(36,54,88);
-  font-family: 'Alegreya Sans', sans-serif;
+  font-family: Courgette
   
 }
 
@@ -27,6 +27,7 @@ body{
 }
 
 .company-name{
+  font-weight: bold;
   color:  rgb(36,54,88);
   font-size: 2em;
   padding-top: 10px
@@ -125,14 +126,6 @@ section{
   margin-right: 10px
 }
 
-.telephone{
-  float: left;
-  height: 40px;
-  width: 40px;
-  margin-top: 5px;
-  margin-right: 10px
-}
-
 .envelope{
   float: left;
   height: 40px;
@@ -143,7 +136,19 @@ section{
 
 .fb-icon{
   height: 40px;
-  width: 40px
+  width: 40px;
+  margin-right: 5px
+}
+
+.instagram-icon{
+  height: 40px;
+  width: 40px;
+  margin-right: 5px
+}
+
+.linkedin-icon{
+  height: 40px;
+  width: 40px;
 }
 
 .twitter-icon{
