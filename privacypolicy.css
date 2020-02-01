@@ -3,13 +3,16 @@
   padding: 0;
 }
 
+a{
+  text-decoration: none;
+}
+
 body{
-  color: rgb(36,54,88);
   font-family: Courgette;
 }
 
 .hr-header{
-  border: 4px solid rgb(36,54,88);
+  border: 4px solid  rgb(36,54,88);
   margin: auto;
   width: 100%
 }
@@ -18,7 +21,6 @@ body{
   opacity: .8;
   box-shadow: 0px 2px 24px 0px rgba(0, 0, 0, 0.15);
   border-radius: 3px;
-  border-top-color: coral;
 }
 
 .navbar-brand{
@@ -26,6 +28,7 @@ body{
 }
 
 .company-name{
+  font-family: Courgette;
   font-weight: bold;
   color:  rgb(36,54,88);
   font-size: 2em;
@@ -41,31 +44,9 @@ body{
   padding-left: 100px;
 }
 
-p{
-  color:white;
-  line-height: 25px
-}
-
-section{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  width: 100%;
-  height: 40vh;
-}
-
-#top-photo{
-  background: url("./news.jpg") no-repeat center center/cover;
-}
-
-.row-one{
-  padding: 20px 0 0 100px
-}
-
-.row-two{
-  padding: 20px 100px 0 100px;
+.privacy-policy{
+  color: rgb(36,54,88);
+  padding: 20px 0 20px 0
 }
 
 /* Footer starts here */
