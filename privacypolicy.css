@@ -70,12 +70,24 @@ body{
   margin-right: 10px
 }
 
+.address{
+  color: white
+}
+
 .envelope{
   float: left;
   height: 40px;
   width: 40px;
   margin-right: 10px;
   margin-top: -8px
+}
+
+.email{
+  color: white
+}
+
+.links{
+  color: white
 }
 
 .facebook{
