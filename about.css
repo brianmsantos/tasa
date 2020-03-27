@@ -41,6 +41,18 @@ body{
   padding-left: 100px;
 }
 
+.ceo{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%
+}
+
+.vp{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%
+}
+
 p{
   color: white;
   line-height: 25px
