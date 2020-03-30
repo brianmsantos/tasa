@@ -79,27 +79,27 @@ section p{
   background: linear-gradient(  
     rgba(0, 0, 0, 0.3),
     rgba(0, 0, 0, 0.3)),
-    url("about.jpg") no-repeat center center/cover;
+    url("about-home.jpg") no-repeat center center/cover;
 
 }
 .capabilities{
   background: linear-gradient(  
   rgba(0, 0, 0, 0.3),
   rgba(0, 0, 0, 0.3)),
-  url("capabilities.jpg") no-repeat center center/cover;
+  url("capabilities-home.jpg") no-repeat center center/cover;
   
 }
 .contracts{
   background: linear-gradient(  
     rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0.5)),
-  url("contracts.jpg") no-repeat center center/cover;
+  url("contracts-home.jpg") no-repeat center center/cover;
 }
 .careers{
   background: linear-gradient(  
     rgba(0, 0, 0, 0.3),
     rgba(0, 0, 0, 0.3)),
-    url("careers.jpg") no-repeat center center/cover;
+    url("careers-home.jpg") no-repeat center center/cover;
 }
 
 h2,h3{
