@@ -42,14 +42,14 @@ body{
 }
 
 .ceo{
-  height: 200px;
-  width: 200px;
+  height: auto;
+  max-width: 100%;
   border-radius: 50%
 }
 
 .vp{
-  height: 200px;
-  width: 200px;
+  height: auto;
+  max-width: 100%;
   border-radius: 50%
 }
 
